@@ -1,0 +1,31 @@
+@import './base.css';
+
+body {
+  font-size: .9vw;
+  letter-spacing: .1vw;
+  color: #000;
+}
+
+img {
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  line-height: 1.6vw;
+}
+
+.btn {
+  display: block;
+  width: 14vw;
+  height: 60px;
+  padding: 18px 20px;
+  font-size: .7vw;
+  font-family: "Noto Serif JP", serif;
+  font-weight: bold;
+  
+}
+
